@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BatidudeEX
+- 👀 I’m interested in undertale and minecraft
+- 🌱 I’m currently learning pyhton
+- 📫 How to reach me Batidude EX#3093
