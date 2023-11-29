@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BatidudeEX
+- 👋 Hi, I’m Batidude
 - 👀 I’m interested in undertale and minecraft
-- 🌱 I’m currently learning pyhton
-- 📫 How to reach me Batidude EX#3093
+- 🌱 I’m currently learning python and C#
+- I use Turbowarp to make games
+- 📫 How to reach me batidudemusic@gmail.com
