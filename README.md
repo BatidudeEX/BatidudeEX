@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Batidude
-- 👀 I’m interested in undertale and minecraft
-- 🌱 I’m currently learning python and C#
+- 👀 I’m interested in gamedev and chh
+- 🌱 I’m currently learning js and C#
 - I use Turbowarp to make games
-- 📫 How to reach me batidudemusic@gmail.com
